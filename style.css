@@ -19,5 +19,14 @@ body {
 .nav{
    margin-top: -50px;
    margin-left: 80vw;
+  
 }
-#btn{}
+#btn1{
+    margin-right: 10px;
+    padding: 8px 20px;
+    text-align: center;
+    background-color: #0F5730;
+    color: #ffff;
+    border-radius: 3px;
+    border: 1px solid black;
+}
