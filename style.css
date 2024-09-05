@@ -9,5 +9,15 @@ body {
     background-repeat: no-repeat;/* The image is not repeated */
     background-attachment: fixed;/*Makes the background image stay fixed when scrolling.*/
     background-position: center;/*Positions the background image at the center of the element.*/
-    
 }
+#logo{
+    height: 77px;
+    margin-left: 30px;
+    margin-top: 10px;
+   
+}
+.nav{
+   margin-top: -50px;
+   margin-left: 80vw;
+}
+#btn{}
