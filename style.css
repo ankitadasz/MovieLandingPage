@@ -17,7 +17,7 @@ body {
    
 }
 .nav{
-   margin-top: -50px;
+   margin-top: -65px;
    margin-left: 80vw;
   
 }
@@ -29,4 +29,12 @@ body {
     color: #ffff;
     border-radius: 3px;
     border: 1px solid black;
+}
+#btn2{
+    padding: 8px 20px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffff;
+    border-radius: 3px;
+    border: 1px solid rgb(255, 255, 255);
 }
