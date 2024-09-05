@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(assets/bg.jpg);
+    background-size: cover; /* The image covers the entire area */
+    background-repeat: no-repeat;/* The image is not repeated */
+    background-attachment: fixed;/*Makes the background image stay fixed when scrolling.*/
+    background-position: center;/*Positions the background image at the center of the element.*/
+    
+}
