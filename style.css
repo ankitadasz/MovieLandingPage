@@ -76,12 +76,24 @@ button:hover{
     color: #A8360B;
     font-family: 'Quicksand', sans-serif;
 }
+
 h3{
     max-width: 500px; 
-    font-size: 1rem;   
+    font-size: 1.1rem;   
     font-weight:800;
     color: #2c2c2c;    
     white-space: normal;     
     word-wrap: break-word;   
-    line-height: 1.4;
+    line-height: 1.2;
+}
+a{
+    width: 155px;
+    height:50px;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+    border: 5px black;
+    background-color: #0F5730;
+    display: flex;
+    align-items: center;
 }
