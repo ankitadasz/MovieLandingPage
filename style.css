@@ -97,3 +97,11 @@ a{
     display: flex;
     align-items: center;
 }
+
+@media(max-width:600px){
+    #btn1{
+    left: 55%;
+    background-color: #0F5730;
+}
+
+}
