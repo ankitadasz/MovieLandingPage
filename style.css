@@ -65,4 +65,9 @@ button:hover{
     margin-left: 40px;
 
 }
-
+.para{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 40px;
+}
